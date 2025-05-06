@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Medical Chatbot</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}">
+</head>
+<body class="{% if session['dark_mode'] %}dark-mode{% endif %}">
+
+    <div id="chatbox">
+        <div id="header">
+            Medical Chatbot
+            <form method="POST" action="{{ url_for('toggle_dark_mode') }}" style="display: inline;">
+                <button type="submit">🌙 Toggle Dark Mode</button>
+            </form>
+            <form method="POST" action="{{ url_for('clear_chat') }}" style="display: inline;">
+                <button type="submit" class="clear-btn">🗑️ Clear Chat</button>
+            </form>
+        </div>
+
+        <div id="messages">
+            {% for message in chat_history %}
+                <div class="{{ 'user-message' if message['user'] else 'bot-message' }}">
+                    {{ message['text'] | safe }}
+                </div>
+            {% endfor %}
+        </div>
+
+        <form method="POST" action="{{ url_for('chat') }}" class="input-container">
+            <input type="text" name="message" placeholder="Type a message..." required>
+            <button type="submit">Send</button>
+        </form>
+    </div>
+
+</body>
+</html>

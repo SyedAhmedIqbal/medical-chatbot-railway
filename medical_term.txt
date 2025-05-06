@@ -1,0 +1,499 @@
+fever
+cough
+diabetes
+hypertension
+symptom
+health
+treatment
+disease
+doctor
+pain
+fever
+injury
+medication
+illness
+therapy
+diagnosis
+cure
+medicine
+infection
+surgery
+feeling
+i am
+symptom
+treatment
+health
+disease
+doctor
+pain
+fever
+injury
+medication
+illness
+therapy
+diagnosis
+cure
+medicine
+infection
+surgery
+vaccine
+blood pressure
+cholesterol
+diabetes
+hypertension
+asthma
+allergy
+cold
+flu
+headache
+nausea
+vomiting
+dizziness
+fatigue
+cancer
+stroke
+heart attack
+heart disease
+arthritis
+rheumatoid
+osteoarthritis
+eczema
+psoriasis
+migraine
+seizure
+mental health
+depression
+anxiety
+schizophrenia
+stress
+bipolar disorder
+dementia
+Alzheimer's
+insomnia
+sleep apnea
+cough
+runny nose
+sore throat
+chest pain
+shortness of breath
+respiratory
+pneumonia
+tuberculosis
+bronchitis
+asthma attack
+COPD
+sore
+wound
+burn
+fracture
+broken bone
+sprain
+strain
+infection
+antibiotics
+antiseptic
+vaccination
+immunization
+blood test
+lab work
+x-ray
+MRI
+CT scan
+ultrasound
+biopsy
+surgery
+operation
+incision
+stitch
+anesthetic
+sedative
+painkiller
+narcotic
+attack
+heart attack
+heart
+opioid
+dosage
+prescription
+pharmacist
+healthcare provider
+physician
+specialist
+nurse
+hospital
+clinic
+emergency
+ambulance
+urgent care
+health insurance
+therapy
+physical therapy
+rehabilitation
+chiropractor
+acupuncture
+holistic
+alternative medicine
+wellness
+diet
+nutrition
+exercise
+obesity
+weight loss
+BMI
+calories
+protein
+carbohydrate
+fat
+vitamins
+minerals
+supplements
+metabolism
+digestion
+gastrointestinal
+liver
+kidney
+bladder
+pancreas
+thyroid
+gallbladder
+colon
+rectum
+intestine
+ulcer
+Crohn's disease
+IBS
+constipation
+diarrhea
+dehydration
+blood sugar
+insulin
+glucose
+hypoglycemia
+hyperglycemia
+type 1 diabetes
+type 2 diabetes
+gestational diabetes
+prediabetes
+glucose tolerance
+electrolyte
+anemia
+blood clot
+thrombosis
+platelet
+red blood cell
+white blood cell
+hemoglobin
+iron deficiency
+leukemia
+lymphoma
+HIV
+AIDS
+STD
+STI
+herpes
+chlamydia
+gonorrhea
+syphilis
+hepatitis
+HPV
+Pap smear
+cancerous
+benign
+malignant
+tumor
+chemotherapy
+radiation
+immunotherapy
+surgery
+mastectomy
+radiation therapy
+prostate cancer
+breast cancer
+lung cancer
+colon cancer
+skin cancer
+lymphoma
+melanoma
+blood cancer
+cancer screening
+mammogram
+colonoscopy
+Pap test
+ultrasound
+biopsy
+cytology
+histology
+DNA test
+genetic testing
+gene therapy
+CRISPR
+fertility
+infertility
+IVF
+sperm count
+egg donor
+embryo transfer
+miscarriage
+stillbirth
+pregnancy
+trimester
+prenatal care
+ultrasound scan
+amniocentesis
+labor
+delivery
+cesarean section
+epidural
+miscarriage
+postnatal care
+breast feeding
+formula feeding
+newborn
+infant
+child
+toddler
+adolescent
+puberty
+puberty blockers
+menopause
+andropause
+menstrual cycle
+period
+PMS
+menopause
+birth control
+contraceptive
+IUD
+pill
+implant
+injection
+condom
+vasectomy
+tubal ligation
+STD testing
+abortion
+miscarriage
+vaccination
+immunization
+booster shot
+flu shot
+Tetanus
+chickenpox
+shingles
+mumps
+measles
+polio
+rubella
+smallpox
+Hepatitis B
+Hepatitis C
+HIV/AIDS prevention
+STI screening
+HIV testing
+mental health
+stress management
+meditation
+mindfulness
+yoga
+therapy
+psychotherapy
+counseling
+depression
+anxiety disorder
+panic disorder
+post-traumatic stress disorder
+bipolar disorder
+schizophrenia
+obsessive-compulsive disorder
+eating disorder
+addiction
+substance abuse
+withdrawal
+rehabilitation
+smoking cessation
+drug abuse
+alcohol addiction
+cognitive behavioral therapy
+dialectical behavior therapy
+hypnosis
+support group
+mood disorder
+personality disorder
+sleep disorder
+insomnia
+sleep apnea
+narcolepsy
+parasomnia
+restless leg syndrome
+insomnia
+melatonin
+CPAP machine
+sleep aid
+circadian rhythm
+alertness
+melatonin deficiency
+sleep deprivation
+stress
+burnout
+fatigue
+exhaustion
+tiredness
+insomnia
+bipolar disorder
+addiction
+anxiety
+panic attack
+suicidal thoughts
+self-harm
+psychosis
+hallucinations
+delusions
+therapy
+CBT
+depression
+mood swings
+anger management
+grief
+trauma
+PTSD
+self-care
+self-help
+mental illness
+loneliness
+fear
+stress management
+depression medication
+mental wellness
+relaxation techniques
+therapeutic massage
+mindfulness meditation
+healthy coping
+support groups
+psychiatric nurse
+psychiatric hospital
+therapist
+psychiatrist
+psychologist
+psychotherapist
+counselor
+emotional health
+emotional support
+mental clarity
+coping mechanism
+emotional intelligence
+cognitive function
+psychotropic drugs
+stimulant
+antidepressant
+antipsychotic
+benzodiazepines
+serotonin
+neurotransmitter
+dopamine
+mood stabilizer
+psychopharmacology
+mental health disorder
+mental wellness
+therapy animal
+emotional distress
+mental health services
+public health
+healthcare system
+healthcare policy
+healthcare provider
+clinical trial
+patient care
+hospital admission
+healthcare costs
+medical ethics
+healthcare access
+medical research
+clinical guidelines
+medical technology
+telemedicine
+health insurance
+medical malpractice
+chronic disease
+infectious disease
+public health emergency
+medical imaging
+diagnostic equipment
+CT scan
+MRI scan
+X-ray
+ECG
+heart rate
+electrocardiogram
+stethoscope
+blood test
+lab results
+glucose test
+cholesterol test
+urinalysis
+blood count
+CT scan
+heart surgery
+pacemaker
+stent
+bypass surgery
+angioplasty
+valve replacement
+transplant
+kidney transplant
+liver transplant
+organ donation
+organ rejection
+tissue graft
+chemotherapy
+radiation therapy
+stem cell therapy
+gene therapy
+blood donation
+blood transfusion
+organ donation
+heartburn
+acid reflux
+indigestion
+gallstones
+kidney stones
+urinary tract infection
+UTI
+prostate
+ovarian cancer
+cervical cancer
+endometriosis
+fibroids
+menstrual cramps
+hot flashes
+night sweats
+erectile dysfunction
+low testosterone
+high cholesterol
+low cholesterol
+triglycerides
+blood clot
+deep vein thrombosis
+pulmonary embolism
+anaphylaxis
+allergic reaction
+food allergy
+seasonal allergy
+pollen allergy
+dust allergy
+mold allergy
+insect sting
+bee sting
+poison ivy
+sunburn
+frostbite
+heat stroke
+hypothermia
+dehydration
+malnutrition
+vitamin deficiency
+iron deficiency
+calcium deficiency
+magnesium deficiency
+potassium deficiency
+sodium deficiency
+electrolyte imbalance
