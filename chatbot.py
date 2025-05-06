@@ -3,6 +3,7 @@ from dotenv import load_dotenv
 import requests
 import spacy
 import logging
+import subprocess
 
 # Configure logging to file and console
 logging.basicConfig(
@@ -15,8 +16,12 @@ logging.basicConfig(
 )
 
 
-nlp = spacy.load("en_core_web_md")
-
+try:
+    nlp = spacy.load("en_core_web_md")
+except OSError:
+    subprocess.run(["python", "-m", "spacy", "download", "en_core_web_md"])
+    nlp = spacy.load("en_core_web_md")
+    
 # Load medical terms for similarity checking
 def load_medical_terms(file_path):
     try:
