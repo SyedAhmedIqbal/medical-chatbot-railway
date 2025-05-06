@@ -35,7 +35,8 @@ core_terms = load_medical_terms('medical_term.txt')
 
 # Groq API Configuration
 GROQ_API_URL = "https://api.groq.com/openai/v1/chat/completions"
-GROQ_API_TOKEN = "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"
+GROQ_API_TOKEN = os.getenv("API_TOKEN")
+
 
 GROQ_HEADERS = {
     "Authorization": f"Bearer {GROQ_API_TOKEN}",
